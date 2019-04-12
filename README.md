@@ -1,5 +1,4 @@
-# AWS Lambda vs. Azure Functions
-## Who has better cold-start performance?
+## AWS Lambda vs. Azure Functions - Who has better cold-start performance?
 
 This repository contains the following components:
 * Azure Function /azure
